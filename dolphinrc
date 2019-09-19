@@ -1,0 +1,77 @@
+Height 1200=747
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAET/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAmAAAETwAAAFoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawAAAAAmAAAETwAAAFoBAAADAAAAAQAAALgAAARP/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACYAAARPAAABDAEAAAMAAAADAAAHgAAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAHgAAAAAoBAAADAAAHgAAABE8AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1920=1272
+Window-Maximized 1200x1920=true
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=solarized.profile
+
+[DetailsMode]
+ExpandableFolders=false
+FontSize=12
+FontWeight=50
+IconSize=22
+PreviewSize=22
+UseSystemFont=false
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+BrowseThroughArchives=true
+GlobalViewProps=true
+ShowCopyMoveMenu=true
+ShowFullPath=true
+ShowZoomSlider=false
+SplitView=true
+UseTabForSwitchingSplitView=true
+Version=200
+ViewPropsTimestamp=2019,3,8,18,0,32
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 1200=478
+Width 1920=614
+
+[MainWindow]
+Height 1107=480
+Height 1200=956
+Height 691=628
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACIAAAEU/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAmAAAETwAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAiAAAEUwAAAFoBAAADAAAAAQAAALgAAARP/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACYAAARPAAAACgEAAAMAAAADAAAHgAAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAHgAAAAAoBAAADAAAG9wAABFMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1096=1092
+Width 1920=1272
+Window-Maximized 1107x1920=true
+Window-Maximized 1200x1920=true
+Window-Maximized 600x800=true
+Window-Maximized 614x1016=true
+Window-Maximized 715x1144=true
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=TextBesideIcon
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PreviewSettings]
+Plugins=imagethumbnail,jpegthumbnail,directorythumbnail
+
+[SettingsDialog]
+Height 1200=493
+Width 1920=723
+
+[Shortcuts]
+mainToolBar=Alt+M
+
+[ViewPropertiesDialog]
+Height 1200=294
+Width 1920=473

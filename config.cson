@@ -1,0 +1,54 @@
+"*":
+  "atom-beautify":
+    js: {}
+  "atom-elixir-formatter":
+    formatOnSave: "never"
+    showErrorNotifications: false
+  "atom-shell-commands":
+    commands: [
+      {
+        arguments: [
+          "nsgconfd_nfsforce"
+        ]
+        command: "make"
+        name: "nsgconfd_nfsforce"
+        options:
+          cwd: "/home/igor/nsg/src/tools-nsg"
+          keymap: "f8"
+          save: true
+      }
+      {
+        arguments: [
+          "-c"
+          "konsole&"
+        ]
+        command: "sh"
+        name: "konsole"
+        options:
+          cwd: "{FileDir}"
+          keymap: "f4"
+          silent: true
+      }
+    ]
+  autosave:
+    enabled: true
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "no"
+  editor:
+    fontSize: 15
+    lineHeight: 1.4
+    softWrap: true
+  "exception-reporting":
+    userId: "5cf14498-729f-4072-9c62-336223b914c5"
+  github:
+    automaticCommitMessageWrapping: false
+  "linter-elixirc":
+    forceElixirc: true
+  minimap:
+    charHeight: 1
+    displayCodeHighlights: false
+  "one-dark-ui":
+    fontSize: 14
+  welcome:
+    showOnStartup: false
